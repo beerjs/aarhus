@@ -1,6 +1,6 @@
 # aarhus
 
-![BeerJS Aarhus Logo](./images/logo.png)
+<img src="./images/logo.png" width="150" height="150">
 
 BeerJS Aarhus is a monthly meetup for JS folks in Aarhus. Who like beer. Sound familiar?
 
